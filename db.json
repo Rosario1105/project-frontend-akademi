@@ -1,0 +1,455 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "MacBook Pro M2",
+        "category": "laptop",
+        "price": 2200,
+        "stock": 5,
+        "description": "Apple MacBook Pro con chip M2.",
+        "image_url": "https://http2.mlstatic.com/D_737170-MLA79964441927_102024-O.jpg"
+      },
+      {
+        "id": 2,
+        "name": "iPhone 14 Pro",
+        "category": "celular",
+        "price": 1200,
+        "stock": 10,
+        "description": "Apple iPhone 14 Pro con pantalla OLED.",
+        "image_url": "https://tienda.personal.com.ar/images/720/webp/i_Phone_14_Pro_Deep_Purple_8cf879729e.png"
+      },
+      {
+        "id": 3,
+        "name": "Samsung Galaxy S23",
+        "category": "celular",
+        "price": 1100,
+        "stock": 7,
+        "description": "Samsung Galaxy S23 con tecnología avanzada.",
+        "image_url": "https://http2.mlstatic.com/D_649068-MLA82085062082_022025-O.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Dell XPS 13",
+        "category": "laptop",
+        "price": 1500,
+        "stock": 8,
+        "description": "Dell XPS 13 ultrabook de alta calidad.",
+        "image_url": "https://biosistemas.com.ar/wp-content/uploads/2024/09/Dell-XPS-9340-1100-x-1000-1.png"
+      },
+      {
+        "id": 5,
+        "name": "Smart Tv TCL 40 s5400 Full HD Android Tv HDR 10",
+        "category": "televisor",
+        "price": 1400,
+        "stock": 6,
+        "description": "TCL S5400 le permite conectarse con otros dispositivos inteligentes.",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_890697-MLA82324582088_022025-F.webp"
+      },
+      {
+        "id": 6,
+        "name": "Samsung Galaxy A15 128 GB Azul claro 4 GB RAM",
+        "category": "celular",
+        "price": 800,
+        "stock": 12,
+        "description": "Su memoria RAM de 4 GB permite que tu smartphone funcione de manera fluida.",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_968531-MLA74353667823_022024-F.webp"
+      },
+      {
+        "id": 7,
+        "name": "Notebook Asus Vivobook Go 15",
+        "category": "laptop",
+        "price": 1300,
+        "stock": 9,
+        "description": "Notebook Asus Vivobook Go 15 Intel Core I3 256gb 8gb E1504ga-bq061w",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_856938-MLA81487298995_122024-F.webp"
+      },
+      {
+        "id": 8,
+        "name": "Notebook Samsung Galaxy Book3 Pro",
+        "category": "laptop",
+        "price": 1600,
+        "stock": 4,
+        "description": "Notebook Samsung Galaxy Book3 Pro Intel I7 13va 16gb 1tb Ssd Color Graphite",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_712017-MLA81506431064_012025-F.webp"
+      },
+      {
+        "id": 9,
+        "name": "Xiaomi Redmi A3OnePlus 11",
+        "category": "celular",
+        "price": 900,
+        "stock": 15,
+        "description": "Xiaomi Redmi A3 Dual SIM 3 GB RAM star blue 64 GB.",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_765821-MLA80141413885_102024-F.webp"
+      },
+      {
+        "id": 10,
+        "name": "Samsung Galaxy Tab A9",
+        "category": "tablet",
+        "price": 1800,
+        "stock": 5,
+        "description": "Samsung Galaxy Tab A9 64gb 4gb Ram Azul 8.7 Sm-x110 Wifi.",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_721423-MLU74591102664_022024-F.webp"
+      },
+      {
+        "id": 11,
+        "name": "Samsung Galaxy S24 Fe",
+        "category": "celular",
+        "price": 1000,
+        "stock": 10,
+        "description": "Samsung Galaxy S24 Fe 256gb 8gb 5g Grey.",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_816177-MLA79739449648_102024-F.webp"
+      },
+      {
+        "id": 12,
+        "name": "Pc Armada Gamer Cpu Amd Ryzen ",
+        "category": "pc",
+        "price": 850,
+        "stock": 8,
+        "description": "Pc Armada Gamer Cpu Amd Ryzen 7 5700g 1tb Ssd 16g Ram Ver2.0.",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_608076-MLA81216361483_122024-F.webp"
+      },
+      {
+        "id": 13,
+        "name": "Impresora Brother Laser HL-1212W",
+        "category": "impresora",
+        "price": 150,
+        "stock": 20,
+        "description": "Impresora simple función monocromática Brother Laser HL-1212W con wifi 220V.",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_749676-MLU72582888328_112023-F.webp"
+      },
+      {
+        "id": 14,
+        "name": "Auriculares Inalambricos Jbl Tune",
+        "category": "accesorio",
+        "price": 350,
+        "stock": 12,
+        "description": "Auriculares Inalambricos Jbl Tune 230nc Tws Bluetooth Amv Color Blanco.",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_753574-MLU70651353695_072023-F.webp"
+      },
+      {
+        "id": 15,
+        "name": "Auricular Inalámbrico Samsung Galaxy Buds",
+        "category": "accesorio",
+        "price": 300,
+        "stock": 10,
+        "description": "Auricular Inalámbrico Samsung Galaxy Buds 3 Pro Gray Ai.",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_605905-MLA80999440857_112024-F.webp"
+      },
+      {
+        "id": 16,
+        "name": "Apple Watch Series 10 GPS",
+        "category": "smartwatch",
+        "price": 250,
+        "stock": 15,
+        "description": "Apple Watch Series 10 GPS • Caja de aluminio negro azabache de 46 mm • Correa deportiva negra - M/L.",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_961488-MLA79316980909_092024-F.webp"
+      },
+      {
+        "id": 17,
+        "name": "Smartwatch Xiaomi Redmi Watch 5",
+        "category": "smartwatch",
+        "price": 200,
+        "stock": 18,
+        "description": "Smartwatch Xiaomi Redmi Watch 5 Gps 2.7'' Amoled Lila.",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_943422-MLA83470751061_042025-F.webp"
+      },
+      {
+        "id": 18,
+        "name": "Smart Tv Led 43 Full Hd Bgh",
+        "category": "televisor",
+        "price": 2200,
+        "stock": 3,
+        "description": "Smart Tv Led 43 Full Hd Bgh Android B4325fs5a",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_948291-MLA82392448781_022025-F.webp"
+      },
+      {
+        "id": 19,
+        "name": "Smart TV Led Noblex 50 Pulgadas",
+        "category": "televisor",
+        "price": 1800,
+        "stock": 4,
+        "description": "Smart TV Led Noblex 50 Pulgadas Dk50x7500 4k UHD Google TV.",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_960086-MLA81182364316_122024-F.webp"
+      },
+      {
+        "id": 20,
+        "name": "Smart Tv Kanji 65 pulgadas",
+        "category": "televisor",
+        "price": 1200,
+        "stock": 5,
+        "description": "Smart Tv Kanji 65 pulgadas Pantalla Dled Ultra HD 4k Android Wifi KJ-65ST005-2.",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_677145-MLA80536780466_112024-F.webp"
+      },
+      {
+        "id": 21,
+        "name": "Apple Watch SE GPS",
+        "category": "smartwatch",
+        "price": 400,
+        "stock": 20,
+        "description": "Apple Watch SE GPS • Caja de aluminio blanco estelar de 40 mm • Correa deportiva blanco estelar - S/M.",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_965454-MLA79062101188_092024-F.webp"
+      },
+      {
+        "id": 22,
+        "name": "Samsung Galaxy Watch5 Pro",
+        "category": "smartwatch",
+        "price": 350,
+        "stock": 25,
+        "description": "Samsung Galaxy Watch5 Pro Bluetooth (45mm) Caja Gris titanio Malla Gris titanio Bisel Gris titanio.",
+        "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_700694-MLU75812437692_042024-F.webp"
+      },
+      {
+        "id": 23,
+        "name": "Fitbit Versa 3",
+        "category": "wearable",
+        "price": 230,
+        "stock": 30,
+        "description": "Fitbit Versa 3, reloj inteligente para fitness.",
+        "image_url": "https://example.com/fitbit-versa3.jpg"
+      },
+      {
+        "id": 24,
+        "name": "Garmin Forerunner 245",
+        "category": "wearable",
+        "price": 300,
+        "stock": 10,
+        "description": "Garmin Forerunner 245 para entrenamiento y running.",
+        "image_url": "https://example.com/garmin-245.jpg"
+      },
+      {
+        "id": 25,
+        "name": "Razer Blade 15",
+        "category": "laptop",
+        "price": 2000,
+        "stock": 4,
+        "description": "Razer Blade 15, laptop gamer de alto rendimiento.",
+        "image_url": "https://example.com/razer-blade15.jpg"
+      },
+      {
+        "id": 26,
+        "name": "Acer Predator Helios 300",
+        "category": "laptop",
+        "price": 1700,
+        "stock": 6,
+        "description": "Acer Predator Helios 300, potente laptop gamer.",
+        "image_url": "https://example.com/acer-predator.jpg"
+      },
+      {
+        "id": 27,
+        "name": "MSI GS66 Stealth",
+        "category": "laptop",
+        "price": 1900,
+        "stock": 5,
+        "description": "MSI GS66 Stealth, laptop gamer con diseño elegante.",
+        "image_url": "https://example.com/msi-gs66.jpg"
+      },
+      {
+        "id": 28,
+        "name": "Huawei MateBook X Pro",
+        "category": "laptop",
+        "price": 1500,
+        "stock": 7,
+        "description": "Huawei MateBook X Pro, ultrafino y potente.",
+        "image_url": "https://example.com/huawei-matebook.jpg"
+      },
+      {
+        "id": 29,
+        "name": "Motorola Edge",
+        "category": "celular",
+        "price": 700,
+        "stock": 10,
+        "description": "Motorola Edge, smartphone con buen rendimiento.",
+        "image_url": "https://example.com/motorola-edge.jpg"
+      },
+      {
+        "id": 30,
+        "name": "Nokia 8.3 5G",
+        "category": "celular",
+        "price": 650,
+        "stock": 12,
+        "description": "Nokia 8.3 5G, teléfono resistente y funcional.",
+        "image_url": "https://example.com/nokia8.3.jpg"
+      },
+      {
+        "id": 31,
+        "name": "Oppo Find X5 Pro",
+        "category": "celular",
+        "price": 950,
+        "stock": 8,
+        "description": "Oppo Find X5 Pro, smartphone de alta gama.",
+        "image_url": "https://example.com/oppo-findx5.jpg"
+      },
+      {
+        "id": 32,
+        "name": "Vivo X80 Pro",
+        "category": "celular",
+        "price": 900,
+        "stock": 9,
+        "description": "Vivo X80 Pro, innovador y con excelentes cámaras.",
+        "image_url": "https://example.com/vivo-x80.jpg"
+      },
+      {
+        "id": 33,
+        "name": "Realme GT 2 Pro",
+        "category": "celular",
+        "price": 800,
+        "stock": 15,
+        "description": "Realme GT 2 Pro, smartphone con gran potencia.",
+        "image_url": "https://example.com/realme-gt2.jpg"
+      },
+      {
+        "id": 34,
+        "name": "Dell Inspiron 15",
+        "category": "laptop",
+        "price": 1100,
+        "stock": 8,
+        "description": "Dell Inspiron 15, laptop para el día a día.",
+        "image_url": "https://example.com/dell-inspiron15.jpg"
+      },
+      {
+        "id": 35,
+        "name": "HP Pavilion 15",
+        "category": "laptop",
+        "price": 1000,
+        "stock": 10,
+        "description": "HP Pavilion 15, laptop asequible y eficiente.",
+        "image_url": "https://example.com/hp-pavilion15.jpg"
+      },
+      {
+        "id": 36,
+        "name": "Lenovo IdeaPad 3",
+        "category": "laptop",
+        "price": 800,
+        "stock": 12,
+        "description": "Lenovo IdeaPad 3, laptop ideal para estudiantes.",
+        "image_url": "https://example.com/lenovo-ideapad3.jpg"
+      },
+      {
+        "id": 37,
+        "name": "Asus VivoBook S15",
+        "category": "laptop",
+        "price": 900,
+        "stock": 11,
+        "description": "Asus VivoBook S15, laptop delgada y moderna.",
+        "image_url": "https://example.com/asus-vivobook.jpg"
+      },
+      {
+        "id": 38,
+        "name": "Canon EOS Rebel T7",
+        "category": "cámara",
+        "price": 500,
+        "stock": 7,
+        "description": "Canon EOS Rebel T7, cámara DSLR para principiantes.",
+        "image_url": "https://example.com/canon-t7.jpg"
+      },
+      {
+        "id": 39,
+        "name": "Nikon D3500",
+        "category": "cámara",
+        "price": 550,
+        "stock": 6,
+        "description": "Nikon D3500, cámara DSLR fácil de usar.",
+        "image_url": "https://example.com/nikon-d3500.jpg"
+      },
+      {
+        "id": 40,
+        "name": "Sony Alpha a6000",
+        "category": "cámara",
+        "price": 650,
+        "stock": 5,
+        "description": "Sony Alpha a6000, cámara mirrorless versátil.",
+        "image_url": "https://example.com/sony-a6000.jpg"
+      },
+      {
+        "id": 41,
+        "name": "GoPro HERO10",
+        "category": "cámara",
+        "price": 400,
+        "stock": 10,
+        "description": "GoPro HERO10, cámara de acción resistente.",
+        "image_url": "https://example.com/gopro-hero10.jpg"
+      },
+      {
+        "id": 42,
+        "name": "DJI Mavic Air 2",
+        "category": "drone",
+        "price": 800,
+        "stock": 4,
+        "description": "DJI Mavic Air 2, drone compacto y potente.",
+        "image_url": "https://example.com/dji-mavic-air2.jpg"
+      },
+      {
+        "id": 43,
+        "name": "Parrot Anafi",
+        "category": "drone",
+        "price": 700,
+        "stock": 5,
+        "description": "Parrot Anafi, drone ligero y fácil de usar.",
+        "image_url": "https://example.com/parrot-anafi.jpg"
+      },
+      {
+        "id": 44,
+        "name": "Logitech MX Master 3",
+        "category": "accesorio",
+        "price": 100,
+        "stock": 20,
+        "description": "Ratón inalámbrico Logitech MX Master 3.",
+        "image_url": "https://example.com/logitech-mx3.jpg"
+      },
+      {
+        "id": 45,
+        "name": "Razer DeathAdder V2",
+        "category": "accesorio",
+        "price": 80,
+        "stock": 18,
+        "description": "Razer DeathAdder V2, ratón gamer de alta precisión.",
+        "image_url": "https://example.com/razer-deathadder.jpg"
+      },
+      {
+        "id": 46,
+        "name": "Corsair K95 RGB",
+        "category": "accesorio",
+        "price": 150,
+        "stock": 12,
+        "description": "Teclado mecánico Corsair K95 RGB.",
+        "image_url": "https://example.com/corsair-k95.jpg"
+      },
+      {
+        "id": 47,
+        "name": "SteelSeries Arctis 7",
+        "category": "accesorio",
+        "price": 130,
+        "stock": 14,
+        "description": "Auriculares inalámbricos SteelSeries Arctis 7.",
+        "image_url": "https://example.com/steelseries-arctis7.jpg"
+      },
+      {
+        "id": 48,
+        "name": "Anker PowerCore 20000",
+        "category": "accesorio",
+        "price": 50,
+        "stock": 30,
+        "description": "Batería externa Anker PowerCore 20000mAh.",
+        "image_url": "https://example.com/anker-powercore.jpg"
+      },
+      {
+        "id": 49,
+        "name": "Belkin BoostCharge",
+        "category": "accesorio",
+        "price": 40,
+        "stock": 25,
+        "description": "Cargador inalámbrico Belkin BoostCharge.",
+        "image_url": "https://example.com/belkin-boostcharge.jpg"
+      },
+      {
+        "id": 50,
+        "name": "Samsung T7 Portable SSD",
+        "category": "accesorio",
+        "price": 150,
+        "stock": 10,
+        "description": "Disco SSD portátil Samsung T7.",
+        "image_url": "https://example.com/samsung-t7.jpg"
+      }
+    ]
+  }
+  
