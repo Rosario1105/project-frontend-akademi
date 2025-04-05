@@ -63,7 +63,7 @@ export default function Navbarlist() {
       </Typography>
 
       <Tooltip content="Material Tailwind" placement="bottom-end">
-          <Button>Bottom End</Button>
+          <Button>Agregar producto</Button>
         </Tooltip>
     </ul>
   );
