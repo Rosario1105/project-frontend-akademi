@@ -1,3 +1,6 @@
+Proyecto FRONTEND - Akademy VORTEX Autora: Pittaro, Rosario.
+
+Requerimientos: https://drive.google.com/file/d/1fW-Fv0q1mEYVRx_d_LYnMd9OEVRmmWvU/view?usp=drive_link
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
