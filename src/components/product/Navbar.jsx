@@ -6,9 +6,13 @@ import {
   Button,
   IconButton,
   Input,
+  Tooltip
 } from "@material-tailwind/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
  
+export function TooltipPlacement() {
+}
+
 export default function Navbarlist() {
   const [openNav, setOpenNav] = React.useState(false);
  
@@ -57,6 +61,10 @@ export default function Navbarlist() {
           Televisores
         </a>
       </Typography>
+
+      <Tooltip content="Material Tailwind" placement="bottom-end">
+          <Button>Bottom End</Button>
+        </Tooltip>
     </ul>
   );
  

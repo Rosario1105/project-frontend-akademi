@@ -1,9 +1,12 @@
 import { legacy_createStore as createStore , applyMiddleware, combineReducers } from "redux";
 import productsReducer from "../reducers";
 import { thunk } from "redux-thunk";
+import modalReducer from "../reducers/modalReducer";
+
 
 const rootReducer = combineReducers({
-  products: productsReducer, // Asegúrate de importar esto
+  products: productsReducer,
+  modal: modalReducer, 
 });
 
 const store = createStore(rootReducer, applyMiddleware(thunk));
