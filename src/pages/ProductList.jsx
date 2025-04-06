@@ -1,7 +1,6 @@
 import React, { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { fetchProducts } from "../redux/actions";
-import { openModal, closeModal } from "../redux/actions/modalActions";
 import { ModalDelete } from "../components/product/ModalDelete";
 import ProductCard from "../components/product/ProductCard";
 

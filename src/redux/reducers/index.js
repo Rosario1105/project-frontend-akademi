@@ -1,8 +1,12 @@
-import { FETCH_PRODUCTS, ADD_PRODUCT, DELETE_PRODUCT, UPDATE_PRODUCT } from "../actions";
+import {
+  FETCH_PRODUCTS,
+  ADD_PRODUCT,
+  DELETE_PRODUCT,
+  UPDATE_PRODUCT,
+} from "../actions";
 
 const initialState = {
   products: [],
-
 };
 
 const productsReducer = (state = initialState, action) => {
@@ -14,12 +18,17 @@ const productsReducer = (state = initialState, action) => {
       return { ...state, products: [...state.products, action.payload] };
 
     case DELETE_PRODUCT:
-      return { ...state, products: state.products.filter(p => p.id !== action.payload) };
+      return {
+        ...state,
+        products: state.products.filter((p) => p.id !== action.payload),
+      };
 
     case UPDATE_PRODUCT:
       return {
         ...state,
-        products: state.products.map(p => p.id === action.payload.id ? action.payload : p),
+        products: state.products.map((p) =>
+          p.id === action.payload.id ? action.payload : p
+        ),
       };
     default:
       return state;
