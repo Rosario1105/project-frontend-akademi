@@ -8,8 +8,6 @@ function App() {
   return (
     <Provider store={store}>
       <div>
-        <Navbarlist />
-        <br />
         <ProductList />
       </div>
     </Provider>
