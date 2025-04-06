@@ -6,11 +6,15 @@ import {
   DialogBody,
   DialogFooter,
 } from "@material-tailwind/react";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { closeModal } from "../../redux/actions/modalActions";
+import { deleteProduct } from "../../redux/actions";
 
 export function ModalDelete({ modalOpen }) {
   const dispatch = useDispatch();
+  const productId = useSelector((state) => state.modal.idProduct);
+
+  console.log(productId);
 
   return (
     <>
@@ -30,7 +34,10 @@ export function ModalDelete({ modalOpen }) {
           <Button
             variant="gradient"
             color="red"
-            onClick={() => dispatch(closeModal())}
+            onClick={() => {
+              dispatch(deleteProduct(productId));
+              dispatch(closeModal());
+            }}
           >
             <span>Eliminar</span>
           </Button>
