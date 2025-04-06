@@ -11,8 +11,6 @@ import {
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import { useNavigate } from "react-router-dom";
 
-export function TooltipPlacement() {}
-
 export default function Navbarlist() {
   const [openNav, setOpenNav] = React.useState(false);
   let navigate = useNavigate();

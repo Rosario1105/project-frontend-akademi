@@ -23,7 +23,7 @@ const ProductList = () => {
       }}
     >
       {products.map((product) => (
-        <ProductCard product={product} />
+        <ProductCard product={product} key={product.id} />
       ))}
 
       <ModalDelete modalOpen={modalOpen} />

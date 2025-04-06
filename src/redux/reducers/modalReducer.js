@@ -1,6 +1,7 @@
 const initialState = {
   isOpen: false,
   idProduct: 0,
+  productToEdit: {},
 };
 
 const modalReducer = (state = initialState, action) => {
@@ -9,6 +10,8 @@ const modalReducer = (state = initialState, action) => {
       return { ...state, isOpen: true, idProduct: action.payload };
     case "CLOSE_MODAL":
       return { ...state, isOpen: false };
+    case "OPEN_MODAL_EDIT":
+      return { ...state, productToEdit: action.payload, isOpen: true };
     default:
       return state;
   }

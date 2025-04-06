@@ -1,15 +1,6 @@
 {
   "products": [
     {
-      "id": "1",
-      "name": "MacBook Pro M2",
-      "category": "laptop",
-      "price": 2200,
-      "stock": 5,
-      "description": "Apple MacBook Pro con chip M2.",
-      "image_url": "https://http2.mlstatic.com/D_737170-MLA79964441927_102024-O.jpg"
-    },
-    {
       "id": "2",
       "name": "iPhone 14 Pro",
       "category": "celular",
@@ -20,9 +11,9 @@
     },
     {
       "id": "3",
-      "name": "Samsung Galaxy S23",
-      "category": "celular",
-      "price": 1100,
+      "name": "Samsung Galaxy S25",
+      "category": "Celular",
+      "price": "5",
       "stock": 7,
       "description": "Samsung Galaxy S23 con tecnología avanzada.",
       "image_url": "https://http2.mlstatic.com/D_649068-MLA82085062082_022025-O.jpg"
@@ -413,6 +404,33 @@
       "stock": 10,
       "description": "Disco SSD portátil Samsung T7.",
       "image_url": "https://example.com/samsung-t7.jpg"
+    },
+    {
+      "id": "1",
+      "name": "HOLAAA",
+      "category": "Televisor",
+      "price": "11",
+      "stock": "11",
+      "description": "HOLAAAAAAAAAAA",
+      "image_url": "https://example.com/corsair-k95.jpg"
+    },
+    {
+      "id": "1",
+      "name": "HOLAAAAAA",
+      "category": "Televisor",
+      "price": "1",
+      "stock": "11",
+      "description": "AJSDJKAKDajd",
+      "image_url": "https://example.com/corsair-k95.jpg"
+    },
+    {
+      "id": "1",
+      "name": "HOLAAAAAA",
+      "category": "Televisor",
+      "price": "1",
+      "stock": "11",
+      "description": "AJSDJKAKDajd",
+      "image_url": "https://example.com/corsair-k95.jpg"
     }
   ]
 }

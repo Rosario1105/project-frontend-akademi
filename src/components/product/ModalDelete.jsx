@@ -14,8 +14,6 @@ export function ModalDelete({ modalOpen }) {
   const dispatch = useDispatch();
   const productId = useSelector((state) => state.modal.idProduct);
 
-  console.log(productId);
-
   return (
     <>
       <Dialog open={modalOpen} handler={() => dispatch(closeModal())}>
