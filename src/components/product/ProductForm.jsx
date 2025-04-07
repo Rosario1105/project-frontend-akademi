@@ -65,7 +65,6 @@ export function ProductForm() {
     }
 
     setErrors({});
-    console.log("Producto válido:", product);
 
     dispatch(addProduct(product));
     dispatch(addProduct(product));
@@ -73,16 +72,6 @@ export function ProductForm() {
   };
   return (
     <div className="min-h-screen flex flex-col">
-      <div className="p-4">
-        <Button
-          className="mt-6"
-          onClick={() => {
-            navigate("/");
-          }}
-        >
-          Inicio
-        </Button>
-      </div>
       <div className="flex-grow flex justify-center items-center px-4">
         <Card
           color="transparent"
@@ -92,7 +81,7 @@ export function ProductForm() {
           <Typography variant="h4" color="blue-gray">
             Ingrese un nuevo producto
           </Typography>
-          <Typography color="gray" className="mt-1 font-normal">
+          <Typography color="gray" className="mt-1 font-normal mb-6">
             Por favor complete los datos.
           </Typography>
           <form className="flex flex-col gap-6">
