@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": "3",
+      "id": "1",
       "name": "Samsung Galaxy S25",
       "category": "celulares",
       "price": "55",
@@ -10,16 +10,16 @@
       "image_url": "https://http2.mlstatic.com/D_649068-MLA82085062082_022025-O.jpg"
     },
     {
-      "id": "8",
+      "id": "2",
       "name": "Notebook Samsung Galaxy Book3 Pro",
       "category": "laptops",
-      "price": 1600,
+      "price": 1000,
       "stock": 4,
       "description": "Notebook Samsung Galaxy Book3 Pro Intel I7 13va 16gb 1tb Ssd Color Graphite",
-      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_712017-MLA81506431064_012025-F.webp"
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_876368-MLU72446715624_102023-F.webp"
     },
     {
-      "id": "9",
+      "id": "3",
       "name": "Xiaomi Redmi A3OnePlus 11",
       "category": "celulares",
       "price": 900,
@@ -28,7 +28,7 @@
       "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_765821-MLA80141413885_102024-F.webp"
     },
     {
-      "id": "11",
+      "id": "4",
       "name": "Samsung Galaxy S24 Fe",
       "category": "celulares",
       "price": 1000,
@@ -37,7 +37,7 @@
       "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_816177-MLA79739449648_102024-F.webp"
     },
     {
-      "id": "12",
+      "id": "5",
       "name": "Pc Armada Gamer Cpu Amd Ryzen",
       "category": "pc",
       "price": 850,
@@ -46,7 +46,7 @@
       "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_608076-MLA81216361483_122024-F.webp"
     },
     {
-      "id": "13",
+      "id": "6",
       "name": "Impresora Brother Laser HL-1212W",
       "category": "accesorios",
       "price": 150,
@@ -55,7 +55,7 @@
       "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_749676-MLU72582888328_112023-F.webp"
     },
     {
-      "id": "14",
+      "id": "7",
       "name": "Auriculares Inalambricos Jbl Tune",
       "category": "accesorios",
       "price": 350,
@@ -64,7 +64,7 @@
       "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_753574-MLU70651353695_072023-F.webp"
     },
     {
-      "id": "15",
+      "id": "8",
       "name": "Auricular Inalámbrico Samsung Galaxy Buds",
       "category": "accesorios",
       "price": 300,
@@ -73,7 +73,7 @@
       "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_605905-MLA80999440857_112024-F.webp"
     },
     {
-      "id": "16",
+      "id": "9",
       "name": "Apple Watch Series 10 GPS",
       "category": "accesorios",
       "price": 250,
@@ -82,13 +82,364 @@
       "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_961488-MLA79316980909_092024-F.webp"
     },
     {
-      "id": "18",
+      "id": "10",
       "name": "Smart Tv Led 43 Full Hd Bgh",
       "category": "televisores",
       "price": 2200,
       "stock": 3,
       "description": "Smart Tv Led 43 Full Hd Bgh Android B4325fs5a",
       "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_948291-MLA82392448781_022025-F.webp"
+    },
+    {
+      "id": "11",
+      "name": "Samsung Galaxy Watch5 Pro",
+      "category": "accesorios",
+      "price": 200,
+      "stock": 40,
+      "description": "Samsung Galaxy Watch5 Pro Bluetooth (45mm) Caja Gris titanio Malla Gris titanio Bisel Gris titanio",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_700694-MLU75812437692_042024-F.webp"
+    },
+    {
+      "id": "12",
+      "name": "Smart TV Led Noblex 50 Pulgadas",
+      "category": "televisores",
+      "price": 40,
+      "stock": 1,
+      "description": "Smart TV Led Noblex 50 Pulgadas Dk50x7500 4k UHD Google TV",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_960086-MLA81182364316_122024-F.webp"
+    },
+    {
+      "id": "13",
+      "name": "Televisor LG 65 C3 Oled 4k",
+      "category": "televisores",
+      "price": 8000,
+      "stock": 2,
+      "description": "Televisor LG 65 C3 Oled 4k Uhd Smart Tv Thinq Oled65c3psa",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_964718-MLU73117588815_112023-F.webp"
+    },
+    {
+      "id": "14",
+      "name": "Smart TV de 50 Xiaomi",
+      "category": "televisores",
+      "price": 360,
+      "stock": 5,
+      "description": "Smart TV de 50 Xiaomi Serie A Pro L50M8-A2LA con pantalla LED 4K",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_831073-MLA71147076873_082023-F.webp"
+    },
+    {
+      "id": "15",
+      "name": "Smart TV de 55 Philco Predicta",
+      "category": "televisores",
+      "price": 900,
+      "stock": 9,
+      "description": "Smart TV de 55 Philco Predicta PREDICTATV5521 con pantalla OLED 4K",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_672089-MLU72824208029_112023-F.webp"
+    },
+    {
+      "id": "16",
+      "name": "Smart Tv Pantalla Tactil Portatil",
+      "category": "televisores",
+      "price": 700,
+      "stock": 31,
+      "description": "Smart Tv Pantalla Tactil Portatil Ruedas Bateria Android",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_960704-MLA82295820161_022025-F.webp"
+    },
+    {
+      "id": "17",
+      "name": "Celular Tecno Pova 6",
+      "category": "celulares",
+      "price": 60,
+      "stock": 5,
+      "description": "Celular Tecno Pova 6 8gb Ram 256gb Rom Interstellar Blue",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_969304-MLA81434301874_122024-F.webp"
+    },
+    {
+      "id": "18",
+      "name": "Samsung Galaxy A06",
+      "category": "celulares",
+      "price": 120,
+      "stock": 8,
+      "description": "Samsung Galaxy A06 64gb 4gb Black",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_833169-MLA79994466307_102024-F.webp"
+    },
+    {
+      "id": "19",
+      "name": "Apple Watch Series 7",
+      "category": "accesorios",
+      "price": 3200,
+      "stock": 9,
+      "description": "Apple Watch Series 7  (gps, 45 Mm) Starlight De Alum",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_655743-CBT82379477125_022025-F.webp"
+    },
+    {
+      "id": "20",
+      "name": "Power Bank Gadnic",
+      "category": "accesorios",
+      "price": 225,
+      "stock": 3,
+      "description": "Power Bank Gadnic 25000 Mah Bateria Recargable Celular Usb Color Negro",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_965508-MLU76613527319_052024-F.webp"
+    },
+    {
+      "id": "21",
+      "name": "Cargador Motorola",
+      "category": "accesorios",
+      "price": 97,
+      "stock": 33,
+      "description": "Cargador Motorola 68w Tipo C Usb Tipo C De Pared Con Cable Carga Rápida Negro",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_742388-MLU75486430484_042024-F.webp"
+    },
+    {
+      "id": "22",
+      "name": "Cargador Apple A2305",
+      "category": "accesorios",
+      "price": 22,
+      "stock": 100,
+      "description": "Cargador Apple A2305 para iphone 20w usb C Blanco",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_778165-MLA80123677364_112024-F.webp"
+    },
+    {
+      "id": "23",
+      "name": "AirPods Pro Apple",
+      "category": "accesorios",
+      "price": 66,
+      "stock": 8,
+      "description": "AirPods Pro Apple Magsafe Charging Case Color Blanco Con Entrada Lightning",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_741643-MLA75309123688_032024-F.webp"
+    },
+    {
+      "id": "24",
+      "name": "Auriculares Inalámbricos Havit",
+      "category": "accesorios",
+      "price": 32,
+      "stock": 31,
+      "description": "Auriculares Inalámbricos Havit H668bt Anc Bluetooth Beige Color Amarillo",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_993012-MLA82168196410_022025-F.webp"
+    },
+    {
+      "id": "25",
+      "name": "Auriculares Inalámbricos Bluetooth Sony",
+      "category": "accesorios",
+      "price": 15,
+      "stock": 7,
+      "description": "Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_972200-MLU74088420395_012024-F.webp"
+    },
+    {
+      "id": "26",
+      "name": "Auriculares Bluetooth con reconocimiento de voz Jbl Tune",
+      "category": "accesorios",
+      "price": 18,
+      "stock": 34,
+      "description": "Auriculares Bluetooth con reconocimiento de voz Jbl Tune 770nc Drive, 40 mm, 20 Hz, color negro",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_620947-MLU77891058334_082024-F.webp"
+    },
+    {
+      "id": "27",
+      "name": "Zte Smartphone Blade A54",
+      "category": "celulares",
+      "price": 125,
+      "stock": 3,
+      "description": "Zte Smartphone Blade A54 128gb 4gb Ram Gris",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_903780-MLU73581378755_122023-F.webp"
+    },
+    {
+      "id": "28",
+      "name": "Motorola Moto E14",
+      "category": "celulares",
+      "price": 180,
+      "stock": 12,
+      "description": "Motorola Moto E14 64 GB Lavanda 2 GB RAM",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_867156-MLU79108716039_092024-F.webp"
+    },
+    {
+      "id": "29",
+      "name": "Celular Moto G15 ",
+      "category": "celulares",
+      "price": 233,
+      "stock": 9,
+      "description": "Celular Moto G15 4 + 128 Gb Verde",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_891325-MLA82635346795_022025-F.webp"
+    },
+    {
+      "id": "30",
+      "name": "Apple iPhone 13",
+      "category": "celulares",
+      "price": 1100,
+      "stock": 6,
+      "description": "Apple iPhone 13 (128 GB) - Midnight",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_973345-MLA47781591382_102021-F.webp"
+    },
+    {
+      "id": "31",
+      "name": "Apple iPhone 16 Pro Max",
+      "category": "celulares",
+      "price": 1600,
+      "stock": 3,
+      "description": "Apple iPhone 16 Pro Max (256 GB) - Titanio del desierto",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_728476-MLU78878973712_092024-F.webp"
+    },
+    {
+      "id": "32",
+      "name": "Apple iPhone 16 (256 GB)",
+      "category": "celulares",
+      "price": 1450,
+      "stock": 9,
+      "description": "Apple iPhone 16 (256 GB) - Negro ",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_677076-MLU79116568655_092024-F.webp"
+    },
+    {
+      "id": "33",
+      "name": "Aro Luz Celular Aro Luz Led Selfie",
+      "category": "accesorios",
+      "price": 5,
+      "stock": 43,
+      "description": "Aro Luz Celular Aro Luz Led Selfie Tablet Recargable 36 Leds",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_999577-MLA43876180375_102020-F.webp"
+    },
+    {
+      "id": "34",
+      "name": " Notebook Gamer Lenovo Legion Slim 5 16arp9 Amd Ryzen 7 743",
+      "category": "laptops",
+      "price": 16000,
+      "stock": 33,
+      "description": "Notebook Gamer Lenovo Legion Slim 5 16arp9 Amd Ryzen 7 7435hs 64gb Ddr5-sdram Teclado Español Windows 11 Color Luna Grey",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_814166-MLA82476060209_022025-F.webp"
+    },
+    {
+      "id": "35",
+      "name": "Notebook Exo Smart T38",
+      "category": "laptops",
+      "price": 20000,
+      "stock": 9,
+      "description": "Notebook Exo Smart T38 Intel N4020 4gb Ssd128gb Windows 11 Color Gris",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_620219-MLA54973743242_042023-F.webp"
+    },
+    {
+      "id": "36",
+      "name": "Notebook Aspire Go Intel i3 N305",
+      "category": "laptops",
+      "price": 12200,
+      "stock": 7,
+      "description": "Notebook Aspire Go Intel i3 N305, DDR5 8Gb Ram, 128Gb SSD, Pantalla 15.6 Full HD, Windows 11 (AG15-31P-3947)",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_903744-MLU79306789013_092024-F.webp"
+    },
+    {
+      "id": "37",
+      "name": "Notebook Lenovo V15 G4 Amd Ryzen 3 7320u",
+      "category": "laptops",
+      "price": 4200,
+      "stock": 53,
+      "description": "Notebook Lenovo V15 G4 Amd Ryzen 3 7320u 16gb De Ram Ssd 512gb Gráficos Radeon 610m 1920x1080px Teclado Español Gris",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_834393-MLU78648144861_082024-F.webp"
+    },
+    {
+      "id": "38",
+      "name": "Notebook Philco N14P4020 ",
+      "category": "laptops",
+      "price": 1600,
+      "stock": 8,
+      "description": "Notebook Philco N14P4020 14.1 Pulgadas Intel Celeron 4gb 128gb Ssd Windows 11",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_653760-MLA80066799098_102024-F.webp"
+    },
+    {
+      "id": "39",
+      "name": "Notebook Acer Aspire Ryzen 7 ",
+      "category": "laptops",
+      "price": 25200,
+      "stock": 6,
+      "description": "Notebook Acer Aspire Ryzen 7 5700u 16gb 512gb 15,6' Fhd Gris Color Plateado",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_735859-MLU75755217597_042024-F.webp"
+    },
+    {
+      "id": "41",
+      "name": "All In One Hp Proone",
+      "category": "pc",
+      "price": 900,
+      "stock": 5,
+      "description": "All In One Hp Proone 245 G10 Amd Ryzen 3 8gb Ram 512gb Win11 Color Negro",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_867197-MLA82054258991_012025-F.webp"
+    },
+    {
+      "id": "42",
+      "name": "Pc Intel Core I5 2400",
+      "category": "pc",
+      "price": 7200,
+      "stock": 5,
+      "description": "Pc Intel Core I5 2400 16gb Ram 480gb Ssd Windows",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_674450-MLA82210261775_022025-F.webp"
+    },
+    {
+      "id": "43",
+      "name": "Pc All In One 24 Intel Core I7-2630",
+      "category": "pc",
+      "price": 5500,
+      "stock": 9,
+      "description": "Pc All In One 24 Intel Core I7-2630 8gb 256gb Ssd Escritorio",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_617060-MLA81335510937_122024-F.webp"
+    },
+    {
+      "id": "44",
+      "name": "Ordenador Pc Cpu Intel Core I5 ",
+      "category": "pc",
+      "price": 3000,
+      "stock": 4,
+      "description": "Ordenador Pc Cpu Intel Core I5 16 Gb Memoria Ram Ssd 480 Gb Wifi Windows 10",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_875113-MLA79443277384_102024-F.webp"
+    },
+    {
+      "id": "45",
+      "name": "Pc Gamer Intel I5 10400",
+      "category": "pc",
+      "price": 6500,
+      "stock": 1,
+      "description": "Pc Gamer Intel I5 10400 8gb M2 480 Core X6 Thread X12",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_622885-MLA76346189411_052024-F.webp"
+    },
+    {
+      "id": "46",
+      "name": "Pc Armada Amd Ryzen 7 5700",
+      "category": "pc",
+      "price": 7400,
+      "stock": 3,
+      "description": "Pc Armada Amd Ryzen 7 5700 - Motherboard A520 - Ssd 1 Tb - Ram 32gb - Placa De Video Geforce Rtx 3050 - G6550",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_797610-MLA82556212819_022025-F.webp"
+    },
+    {
+      "id": "47",
+      "name": "Pc De Escritorio Armada Cpu Computadora I5",
+      "category": "pc",
+      "price": 899,
+      "stock": 7,
+      "description": "Pc De Escritorio Armada Cpu Computadora I5 8gb Ssd 240gb - Ideal Uso De Oficina Administrativo Hogareño Locales Sistema De Gestion",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_945775-MLU77656139264_072024-F.webp"
+    },
+    {
+      "id": "48",
+      "name": "Pc Armada Gamer Amd Ryzen 7",
+      "category": "pc",
+      "price": 599,
+      "stock": 3,
+      "description": "c Armada Gamer Amd Ryzen 7 Ram 32gb 1tb Ssd Wifi +monitor",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_824067-MLA81087648533_122024-F.webp"
+    },
+    {
+      "id": "49",
+      "name": "Pc Armada Gamer Cpu Amd Ryzen 7 5700g",
+      "category": "pc",
+      "price": 677,
+      "stock": 1,
+      "description": "Pc Armada Gamer Cpu Amd Ryzen 7 5700g 1tb Ssd 16g Ram Ver2.0",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_608076-MLA81216361483_122024-F.webp"
+    },
+    {
+      "id": "50",
+      "name": "Computadora Pc Cpu Solarmax I9-14900k",
+      "category": "PC",
+      "price": 200,
+      "stock": 3,
+      "description": "Computadora Pc Cpu Solarmax I9-14900k + Cc421p 64gb 2t Hdd",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_980964-MLA81358355147_122024-F.webp"
     }
   ]
 }

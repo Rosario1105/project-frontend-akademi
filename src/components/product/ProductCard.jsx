@@ -55,7 +55,7 @@ const ProductCard = ({ product }) => {
               className="w-full bg-green-600 text-white py-2 rounded-md hover:bg-green-700 transition-all text-sm"
               type="button"
             >
-              Ver mas
+              Ver más
             </button>
           </div>
         </div>
