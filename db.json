@@ -262,15 +262,6 @@
       "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_891325-MLA82635346795_022025-F.webp"
     },
     {
-      "id": "30",
-      "name": "Apple iPhone 13",
-      "category": "celulares",
-      "price": 1100,
-      "stock": 6,
-      "description": "Apple iPhone 13 (128 GB) - Midnight",
-      "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_973345-MLA47781591382_102021-F.webp"
-    },
-    {
       "id": "31",
       "name": "Apple iPhone 16 Pro Max",
       "category": "celulares",
