@@ -71,7 +71,6 @@ export function ModalEdit({ modalOpen }) {
     setErrors({});
     dispatch(updateProduct(productToEdit.id, productToEdit));
     dispatch(closeModal());
-
   };
 
   return (
@@ -262,26 +261,21 @@ export function ModalEdit({ modalOpen }) {
               </div>
 
               <div className="md:col-span-2 flex justify-between">
-  <Button
-    type="button"
-    color="gray"
-    onClick={() => { 
-       dispatch(closeModal());
-       setProductToEdit({ ...product });
-      }}
-    
-  >
-    Cancelar
-  </Button>
+                <Button
+                  type="button"
+                  color="gray"
+                  onClick={() => {
+                    dispatch(closeModal());
+                    setProductToEdit({ ...product });
+                  }}
+                >
+                  Cancelar
+                </Button>
 
-  <Button
-    type="button"
-    color="cyan"
-    onClick={onsubmitForm}
-  >
-    Editar producto
-  </Button>
-</div>
+                <Button type="button" color="cyan" onClick={onsubmitForm}>
+                  Editar producto
+                </Button>
+              </div>
             </form>
           </Card>
         </div>
